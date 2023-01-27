@@ -1,6 +1,6 @@
 # NLP for Twitter Text Data
 
-This repository contains the input files and programs for different assignment questions in relation to keyword extraction, where MongoDB is the database, and the application of MapReduce for word count and sort applications. All code is run with Python 3.9. To run the MapReduce examples, the preprocessed input files must be in the same repository than the program when it is run.
+This repository contains the input files and programs for different assignment questions in relation to keyword extraction, where MongoDB is the database, and the application of MapReduce for word count and sort applications. All code is run with Python 3.9. To run the MapReduce examples, the preprocessed input files and the program must be in the same repository.
 
 ## Task 1: [Keyword Extraction](https://github.com/felix-rosenberger/Tweet-Text-NLP-with-MapReduce/blob/main/Keyword%20Extraction/Task1.py)
 
